@@ -14,7 +14,7 @@
   ],
   "env": {
     "NODE_ENV": "production",
-    "FRONTEND_URL": "https://fronend.site",
-    "BACKEND_URL": "https://api.backend.site"
+    "FRONTEND_URL": "https://note-exchange-frontend.vercel.app",
+    "BACKEND_URL": "https://note-exchange-backend.vercel.app"
   }
 }
